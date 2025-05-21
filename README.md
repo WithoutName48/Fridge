@@ -1,0 +1,1 @@
+This web app was created to resemble one of the fridge door's function which is holding sticky notes. To run it, first you need to build the project using npm run dev. Then open index.html from /dist directory via Live Server.
